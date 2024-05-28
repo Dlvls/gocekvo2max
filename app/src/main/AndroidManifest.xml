@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools">
+
+    <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION" />
+    <uses-permission android:name="android.permission.ACCESS_COARSE_LOCATION" />
+    <uses-permission android:name="android.permission.INTERNET" />
+
+    <uses-feature
+        android:name="android.hardware.camera"
+        android:required="true" />
+
+    <uses-permission android:name="android.permission.CAMERA" />
+
+    <uses-feature android:name="android.hardware.camera.autofocus" />
+
+    <uses-permission android:name="android.permission.POST_NOTIFICATIONS" />
+    <uses-permission android:name="android.permission.WAKE_LOCK" />
+
+    <application
+        android:allowBackup="true"
+        android:dataExtractionRules="@xml/data_extraction_rules"
+        android:fullBackupContent="@xml/backup_rules"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/Theme.GoCekVO2MAX"
+        tools:targetApi="31">
+        <activity
+            android:name=".tutorial.rockport.RPTutorialActivity"
+            android:exported="false" />
+
+        <activity
+            android:name=".tutorial.balke.BTutorialActivity"
+            android:exported="false" />
+        <activity
+            android:name=".history.ChartActivity"
+            android:exported="false" />
+        <activity
+            android:name=".SettingActivity"
+            android:configChanges="locale"
+            android:exported="false" />
+        <activity
+            android:name=".oxygenlevel.OxygenLevelActivity"
+            android:exported="false" />
+        <activity
+            android:name=".heartmonitor.HeartRateActivity"
+            android:exported="false" />
+
+        <activity
+            android:name=".maps.FinalRockPortTestActivity"
+            android:exported="false" />
+
+        <activity
+            android:name=".maps.FinalBalkeTestActivity"
+            android:exported="false" />
+
+        <!-- Non Deploy API Key -->
+        <meta-data
+            android:name="com.google.android.geo.API_KEY"
+            android:value="AIzaSyC6n3UPEFr0EjHCdxg2dVbDMfcaKrSd_sg" />
+
+<!--        <meta-data-->
+<!--            android:name="com.google.android.geo.API_KEY"-->
+<!--            android:value="AIzaSyDbB2I5EB52P1qkOBSTnwGuvEJk_9bELVg" />-->
+
+        <activity
+            android:name=".balke.BalkeTestActivity"
+            android:exported="false" />
+        <activity
+            android:name=".rockport.RockPortTestActivity"
+            android:exported="false" />
+        <activity
+            android:name=".profile.ProfileFormActivity"
+            android:exported="false" />
+        <activity
+            android:name=".profile.ProfileActivity"
+            android:exported="false" />
+        <activity
+            android:name=".auth.LoginActivity"
+            android:exported="false" />
+        <activity
+            android:name=".auth.RegisterActivity"
+            android:exported="false" />
+        <activity
+            android:name=".MainActivity"
+            android:exported="false" />
+        <activity
+            android:name=".SplashScreenActivity"
+            android:exported="true">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+    </application>
+
+</manifest>

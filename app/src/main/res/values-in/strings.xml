@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">GoCekVO2MAX</string>
+    <string name="gocek_vo2max">GoCek VO2MAX</string>
+    <string name="_00_00_00">00:00:00</string>
+    <string name="min">Menit</string>
+    <string name="_0_0">0.00</string>
+    <string name="km">KM</string>
+    <string name="start">Mulai</string>
+    <string name="stop">Stop</string>
+    <string name="vo2max">VO2MAX</string>
+    <string name="history">Riwayat</string>
+    <string name="heart_rate_monitor">Monitor Detak Jantung</string>
+    <string name="we_re_almost_there">Tunggu sebentar ya...</string>
+    <string name="calculating_your_heart_rate">Menghitung detak jantung Anda</string>
+    <string name="please_place_you_finger_in_the_camera">Silakan letakkan jari Anda di kamera</string>
+    <string name="welcome">Selamat datang!</string>
+    <string name="sign_in_to_continue">Masuk untuk melanjutkan</string>
+    <string name="email">Email</string>
+    <string name="password">Kata Sandi</string>
+    <string name="login">Login</string>
+    <string name="don_t_have_an_account">Belum punya akun?</string>
+    <string name="register">Daftar</string>
+    <string name="home">Beranda</string>
+    <string name="hi_members">Hi Member,</string>
+    <string name="let_s_run">Ayo Lari!</string>
+    <string name="gocek">GoCek</string>
+    <string name="aplikasi_untuk_memprediksi_kapasitas_nvolume_oksigen_maksimal">Aplikasi untuk menghitung kapasitas \nlevel volume oksigen maksimal</string>
+    <string name="vo2max_prediction">Prediksi VO2MAX</string>
+    <string name="rock_port_test">Rock Port</string>
+    <string name="_1600_meter">1600 Meter</string>
+    <string name="of_walking">Berjalan</string>
+    <string name="balke_test">Balke</string>
+    <string name="_15_minute">15 Menit</string>
+    <string name="your_oxygen_level">Tingkat Oksigen Anda</string>
+    <string name="_40_56">40.56</string>
+    <string name="status">Status</string>
+    <string name="ok">Oke</string>
+    <string name="back">Kembali</string>
+    <string name="profile">Profil</string>
+    <string name="name">Nama</string>
+    <string name="job">Pekerjaan</string>
+    <string name="gender">Jenis Kelamin</string>
+    <string name="city">Kota</string>
+    <string name="age">Usia</string>
+    <string name="birthdate">Tanggal Lahir</string>
+    <string name="athletic_state">Status Atletik</string>
+    <string name="edit">Edit</string>
+    <string name="fill_your_profile">Isi Profil Anda</string>
+    <string name="male">Laki-laki</string>
+    <string name="female">Perempuan</string>
+    <string name="city_of_birth">Kota Kelahiran</string>
+    <string name="date_of_birth">Tanggal Lahir</string>
+    <string name="are_you_an_athlete">Apakah Anda seorang Atlet?</string>
+    <string name="weight">Berat</string>
+    <string name="save">Simpan</string>
+    <string name="hi">Hai!</string>
+    <string name="create_a_new_account">Buat akun baru</string>
+    <string name="already_have_an_account">Sudah punya akun?</string>
+    <string name="setting">Pengaturan</string>
+    <string name="logout">Keluar</string>
+    <string name="done">Selesai</string>
+    <string name="value">Nilai</string>
+    <string name="ml_kg">ml/kg/m</string>
+
+    <string-array name="athlete_options">
+        <item>Ya</item>
+        <item>Tidak</item>
+    </string-array>
+
+    <string-array name="language_options">
+        <item>Inggris</item>
+        <item>Indonesia</item>
+    </string-array>
+    <string name="choose_the_language">Pilih bahasa</string>
+    <string name="invalid_email_or_password">Email atau kata sandi tidak valid</string>
+    <string name="please_enter_email_and_password">Silakan masukkan email dan kata sandi</string>
+    <string name="all_fields_must_be_filled">Semua kolom harus diisi</string>
+    <string name="invalid_email_type">Rmail tidak valid</string>
+    <string name="password_must_have_at_least_6_characters_with_at_least_1_number">Kata sandi harus memiliki setidaknya 6 karakter dengan setidaknya 1 angka</string>
+    <string name="email_already_in_use">Email sudah digunakan</string>
+    <string name="you_need_to_enable_gps_to_use_this_application">Anda perlu mengaktifkan GPS untuk menggunakan aplikasi ini</string>
+    <string name="please_place_your_fingertip_on_the_camera">Silakan letakkan ujung jari Anda di kamera.</string>
+    <string name="vo2max_categories">Kategori Vo2max</string>
+    <string name="kg">" kg"</string>
+    <string name="years_old">tahun</string>
+    <string name="athlete">Atlet</string>
+    <string name="non_athlete">Bukan Atlet</string>
+    <string name="please_fill_your_profile_correctly">Harap isi profil Anda dengan benar</string>
+    <string name="please_accept_the_required_permissions_for_location_and_camera_to_proceed">Harap berikan izin yang diperlukan untuk lokasi dan kamera agar bisa melanjutkan</string>
+    <string name="oxygen_level">Oxygen Level</string>
+    <string name="grant_camera_permission_to_enable_the_feature">Berikan izin kamera untuk mengaktifkan fitur ini</string>
+    <string name="camera_permission">Izin Kamera</string>
+    <string name="location_permission">Izin Lokasi</string>
+    <string name="grant_location_permission_to_enable_the_feature">Berikan izin lokasi untuk mengaktifkan fitur ini</string>
+    <string name="user_profile">Profil Pengguna</string>
+    <string name="ensure_your_profile_is_fully_filled_out_before_starting_tracking_to_accurately_calculate_oxygen_levels">Pastikan profil Anda sudah terisi dengan lengkap sebelum memulai menghitung tingkat oksigen</string>
+    <string name="initiate_tracking_with_a_simple_tap_on_the_start_button">Mulai pelacakan dengan mengetuk tombol "Start" secara sederhana</string>
+    <string name="position_your_finger_on_the_camera_to_measure_the_heart_rate">Posisikan jari Anda di atas kamera untuk mengukur detak jantung</string>
+    <string name="after_completion_view_your_oxygen_level">Setelah selesai, lihat nilai Vo2max Anda</string>
+    <string name="of_running">Berlari</string>
+    <string name="tutorial">Tutorial</string>
+    <string name="discover_the_step_by_step_tutorial_on_predicting_balke_vo2max">Lihat tutorial untuk prediksi Balke Vo2max</string>
+    <string name="balke_tutorial">Tutorial Balke</string>
+    <string name="discover_the_step_by_step_tutorial_on_predicting_rock_port_vo2max">Lihat tutorial untuk prediksi Rock Port Vo2max</string>
+    <string name="rock_port_tutorial">Tutorial Rock Port</string>
+    <string name="click_on_the_rock_port_section_to_calculate_your_vo2max_through_a_1600_meter_walking">Klik pada bagian Rock Port untuk menghitung Vo2max Anda dengan berjalan sejauh 1600 meter</string>
+    <string name="rock_port">Rock Port</string>
+    <string name="you_can_click_the_stop_button_to_stop_the_rock_port_test_before_completing_the_1600_meter_distance">Anda dapat klik tombol berhenti untuk menghentikan Rock Port sebelum mencapai 1600 meter</string>
+    <string name="back_to_home">Kembali ke Beranda</string>
+    <string name="tap_the_home_icon_to_return_to_the_main_page">Ketuk ikon beranda untuk kembali ke halaman utama</string>
+    <string name="click_on_the_balke_section_to_calculate_your_vo2max_through_a_15_minutes_running">Klik pada bagian Balke untuk menghitung Vo2max Anda dengan lari selama 15 menit</string>
+    <string name="you_can_click_the_stop_button_to_stop_the_balke_test_before_completing_the_15_minutes_duration">Anda dapat klik tombol berhenti untuk menghentikan Balke sebelum mencapai durasi 15 menit</string>
+    <string name="date">Tanggal</string>
+    <string name="dialog_done">Selesai</string>
+    <string name="dialog_not_finished">Belum Selesai</string>
+    <string name="dialog_not_finished_rp">Anda harus menyelesaikan 1,6 km untuk selesai</string>
+    <string name="dialog_not_finished_bk">Anda harus menyelesaikan 15 menit untuk selesai</string>
+
+</resources>

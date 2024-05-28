@@ -1,0 +1,3 @@
+keystore name: gocek_vo2max
+alias: gocek_vo2max
+pass: delvia1
