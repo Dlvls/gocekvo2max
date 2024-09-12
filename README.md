@@ -73,14 +73,9 @@ GoCek VO2MAX is an Android application that tracks walking for 1.6km or running 
 - Follow Android's best practices and coding conventions.
 - Use meaningful commit messages.
 
-## License
-
-Distributed under the MIT License. See `LICENSE` for more information.
-
 ## Authors and Acknowledgments
 
 - **Delvia Lana Semba** - *Initial work* - [GitHub](https://github.com/Dlvls)
-- Special thanks to all contributors and supporters.
 
 ## Contact
 
